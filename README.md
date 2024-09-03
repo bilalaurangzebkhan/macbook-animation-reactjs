@@ -12,8 +12,6 @@ This landing page provides a setup to get React working in Vite with HMR and som
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
