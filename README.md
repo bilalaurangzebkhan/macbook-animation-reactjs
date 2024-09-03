@@ -40,5 +40,41 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/minimal-macbook-pro-landing-page.git
-   cd minimal-macbook-pro-landing-page
+   git clone https://github.com/bilalaurangzebkhan/macbook-animation-reactjs.git
+   cd macbook-animation-reactjs
+
+2. **Install dependencies**:
+
+   ```bash
+   npm install
+
+3. **Run the development server**:
+
+   ```bash
+   npm run dev
+
+The page will be available at [http://localhost:3000](http://localhost:3000)
+
+
+## Usage
+
+Once the project is set up, you can start customizing the landing page to match your needs. The 3D model and animations are handled using React Three Fiber and Drei, while Tailwind CSS provides the styling.
+
+### Customizing the 3D Model
+
+To modify the 3D MacBook Pro model or its animations:
+
+1. Open the `src/components/MacBookModel.js` file.
+2. Use the [Drei library](https://github.com/pmndrs/drei) to add or adjust any helpers or controls.
+3. Refer to the [React Three Fiber documentation](https://r3f.docs.pmnd.rs/getting-started/introduction) for more detailed customization options.
+
+### Styling with Tailwind CSS
+
+All styles are managed with Tailwind CSS. To customize the styles:
+
+1. Edit the classes in the JSX files.
+2. Refer to the [Tailwind CSS documentation](https://tailwindcss.com/docs) for more styling options.
+
+   
+
+# Support With Star 😊
