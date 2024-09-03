@@ -15,7 +15,7 @@ This landing page provides a setup to get React working in Vite with HMR and som
 
 ## Demo
 
-Check out the live demo of the project [here](#).
+Check out the live demo of the project [here](https://minimal-macbook-pro-landing-page.netlify.app/).
 
 ## Features
 
@@ -76,3 +76,4 @@ All styles are managed with Tailwind CSS. To customize the styles:
    
 
 # Support With Star 😊
+
