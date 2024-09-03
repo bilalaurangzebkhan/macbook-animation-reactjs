@@ -51,9 +51,6 @@ To get started with this project, follow these steps:
    ```bash
    npm run dev
 
-The page will be available at [http://localhost:3000](http://localhost:3000)
-
-
 ## Usage
 
 Once the project is set up, you can start customizing the landing page to match your needs. The 3D model and animations are handled using React Three Fiber and Drei, while Tailwind CSS provides the styling.
